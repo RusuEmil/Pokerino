@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Ac",
+    "cardimage": "../../images/carddeck/Ac.svg"
+  },
+  {
+    "id": "As",
+    "cardimage": "../../images/carddeck/Ac.svg"
+  },
+  {
+    "id": "Ah",
+    "cardimage": "../../images/carddeck/Ah.svg"
+  },
+  {
+    "id": "Ad",
+    "cardimage": "../../images/carddeck/Ad.svg"
+  },
+  {
+    "id": "Kc",
+    "cardimage": "../../images/carddeck/Kc.svg"
+  },
+  {
+    "id": "Ks",
+    "cardimage": "../../images/carddeck/Ks.svg"
+  },
+  {
+    "id": "Kh",
+    "cardimage": "../../images/carddeck/Kh.svg"
+  },
+  {
+    "id": "Kd",
+    "cardimage": "../../images/carddeck/Kd.svg"
+  },
+  {
+    "id": "Qc",
+    "cardimage": "../../images/carddeck/Qc.svg"
+  },
+  {
+    "id": "Qs",
+    "cardimage": "../../images/carddeck/Qs.svg"
+  },
+  {
+    "id": "Qh",
+    "cardimage": "../../images/carddeck/Qh.svg"
+  },
+  {
+    "id": "Qd",
+    "cardimage": "../../images/carddeck/Qd.svg"
+  },
+  {
+    "id": "Jc",
+    "cardimage": "../../images/carddeck/Jc.svg"
+  },
+  {
+    "id": "Js",
+    "cardimage": "../../images/carddeck/Js.svg"
+  },
+  {
+    "id": "Jh",
+    "cardimage": "../../images/carddeck/Jh.svg"
+  },
+  {
+    "id": "Jd",
+    "cardimage": "../../images/carddeck/jd.svg"
+  },
+  {
+    "id": "Tc",
+    "cardimage": "../../images/carddeck/10c.svg"
+  },
+  {
+    "id": "Ts",
+    "cardimage": "../../images/carddeck/10s.svg"
+  },
+  {
+    "id": "Th",
+    "cardimage": "../../images/carddeck/10h.svg"
+  },
+  {
+    "id": "Td",
+    "cardimage": "../../images/carddeck/10d.svg"
+  },
+  {
+    "id": "9c",
+    "cardimage": "../../images/carddeck/9c.svg"
+  },
+  {
+    "id": "9s",
+    "cardimage": "../../images/carddeck/9s.svg"
+  },
+  {
+    "id": "9h",
+    "cardimage": "../../images/carddeck/9h.svg"
+  },
+  {
+    "id": "9d",
+    "cardimage": "../../images/carddeck/9d.svg"
+  },
+  {
+    "id": "8c",
+    "cardimage": "../../images/carddeck/8c.svg"
+  },
+  {
+    "id": "8s",
+    "cardimage": "../../images/carddeck/8s.svg"
+  },
+  {
+    "id": "8h",
+    "cardimage": "../../images/carddeck/8h.svg"
+  },
+  {
+    "id": "8d",
+    "cardimage": "../../images/carddeck/8d.svg"
+  },
+  {
+    "id": "7c",
+    "cardimage": "../../images/carddeck/7c.svg"
+  },
+  {
+    "id": "7s",
+    "cardimage": "../../images/carddeck/7s.svg"
+  },
+  {
+    "id": "7h",
+    "cardimage": "../../images/carddeck/7h.svg"
+  },
+  {
+    "id": "7d",
+    "cardimage": "../../images/carddeck/7d.svg"
+  },
+  {
+    "id": "6c",
+    "cardimage": "../../images/carddeck/6c.svg"
+  },
+  {
+    "id": "6s",
+    "cardimage": "../../images/carddeck/6s.svg"
+  },
+  {
+    "id": "6h",
+    "cardimage": "../../images/carddeck/6h.svg"
+  },
+  {
+    "id": "6d",
+    "cardimage": "../../images/carddeck/6d.svg"
+  },
+  {
+    "id": "5c",
+    "cardimage": "../../images/carddeck/5c.svg"
+  },
+  {
+    "id": "5s",
+    "cardimage": "../../images/carddeck/5s.svg"
+  },
+  {
+    "id": "5h",
+    "cardimage": "../../images/carddeck/5h.svg"
+  },
+  {
+    "id": "5d",
+    "cardimage": "../../images/carddeck/5d.svg"
+  },
+  {
+    "id": "4c",
+    "cardimage": "../../images/carddeck/4c.svg"
+  },
+  {
+    "id": "4s",
+    "cardimage": "../../images/carddeck/4s.svg"
+  },
+  {
+    "id": "4h",
+    "cardimage": "../../images/carddeck/4h.svg"
+  },
+  {
+    "id": "4d",
+    "cardimage": "../../images/carddeck/4d.svg"
+  },
+  {
+    "id": "3c",
+    "cardimage": "../../images/carddeck/3c.svg"
+  },
+  {
+    "id": "3s",
+    "cardimage": "../../images/carddeck/3s.svg"
+  },
+  {
+    "id": "3h",
+    "cardimage": "../../images/carddeck/3h.svg"
+  },
+  {
+    "id": "3d",
+    "cardimage": "../../images/carddeck/3d.svg"
+  },
+  {
+    "id": "2c",
+    "cardimage": "../../images/carddeck/2c.svg"
+  },
+  {
+    "id": "2s",
+    "cardimage": "../../images/carddeck/2s.svg"
+  },
+  {
+    "id": "2h",
+    "cardimage": "../../images/carddeck/2h.svg"
+  },
+  {
+    "id": "2d",
+    "cardimage": "../../images/carddeck/2d.svg"
+  }
+]

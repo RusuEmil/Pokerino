@@ -1,0 +1,79 @@
+.container {
+  display: flex;
+  // flex-direction: column-reverse;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px;
+  height: 600px;
+  background-image: url("../../images/poker_table.jpg");
+  background-repeat: no-repeat;
+}
+
+.player2-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 250px;
+  margin-top: 180px;
+}
+
+.community-container {
+  display: flex;
+
+  align-items: center;
+  margin-top: 160px;
+  margin-left: 60px;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: center;
+}
+
+.player1-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 155px;
+}
+img {
+  width: 120px;
+  height: 120px;
+}
+.cards-chances1 {
+  display: flex;
+}
+
+.cards-chances2 {
+  display: flex;
+}
+button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+button:hover:not(.button-player1):not(.button-player2) {
+  background-color: #45a049;
+}
+.button-guess {
+  background-color: black;
+}
+.button-player2 {
+  background-color: red;
+}
+.button-player1 {
+  background-color: blue;
+}
+.modal2 {
+  width: 400px;
+  height: 400px;
+}
